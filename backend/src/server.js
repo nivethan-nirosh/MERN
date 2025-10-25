@@ -39,4 +39,3 @@ connectDB().then(() =>{
 })
 
 
-// mongodb+srv://nirosh021517_db_user:1XTd2CKH3XZ6ge9T@cluster0.sotq3vo.mongodb.net/?appName=Cluster0
